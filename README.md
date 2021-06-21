@@ -1,4 +1,4 @@
-![Ecstatic Dance Limerick Logo]()
+# ![Ecstatic Dance Limerick Logo]()
 
 Welcome to Ecstatic Dance Limerick Website,
 
@@ -15,6 +15,12 @@ This section will allow the user to easily navigate from page to page across all
 
 First Mockup:
 The initial mockup idea would not translate well on a mobile device as I had planned on putting Ecstatic Dance Limerick in text as a clickable landing page link on the left side of the header with the logo central and nav links to the right.This would mean that when on a mobile device the text link would be broken up looking and this would be too messy and not inline with good design practice. Nor the look I want to achieve. I will modify the mockup to translate correctly across all devices.
+
+# ![Image of Mobile Mockup] (../assets/images/mobile.jpg)
+
+
+
+
 
 
 Ecstatic Dance Limerick
