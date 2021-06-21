@@ -1,8 +1,43 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![Ecstatic Dance Limerick Logo]()
 
-Welcome USER_NAME,
+Welcome to Ecstatic Dance Limerick Website,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+Ecstatic Dance Limerick is a site that hopes to promote an Ecstatic Dance event taking place weekly in Limerick at the Killmurry Arts and Community center. The site will be targeted toward building a community of locals looking to express themselves through a free-form dance movement. It will be a space for people wishing to connect with a conscious dancing community that is outside of the regular dance/club scene in Ireland.
+
+Features:
+The site will need to feature the event details, guidelines and connect pages.
+
+Existing Features
+Navigation Bar
+
+Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Guidelines and Connect page and is identical in each page to allow for easy navigation.
+This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+
+First Mockup:
+The initial mockup idea would not translate well on a mobile device as I had planned on putting Ecstatic Dance Limerick in text as a clickable landing page link on the left side of the header with the logo central and nav links to the right.This would mean that when on a mobile device the text link would be broken up looking and this would be too messy and not inline with good design practice. Nor the look I want to achieve. I will modify the mockup to translate correctly across all devices.
+
+
+Ecstatic Dance Limerick
+Landing page                                        Event      Guidelines     Connect
+
+The landing page image:
+
+The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
+This section introduces the user to Ecstatic Dance Limerick with an eye catching animation to grab their attention.
+
+Event information section:
+
+The Event information section will allow the user to see the benefits of joining an Ecstatic Dance event, as well as a brief history of the movement.
+This user will see the value of attending an Ecstatic Dance event. This should encourage the user to consider dancing as a form of stress relief, meditation and fun.
+
+Image here:
+
+
+
+
+
+
+
 
 ## Gitpod Reminders
 
