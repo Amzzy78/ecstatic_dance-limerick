@@ -1,5 +1,14 @@
 * {box-sizing: border-box;}
-
+body {
+	font-family: source-sans-pro;
+	background-color: #f2f2f2;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	font-style: normal;
+	font-weight: 200;
+}
 
 /* Container */
 
@@ -94,7 +103,11 @@ ul li:hover a {
 	letter-spacing: 4px;
 }
 
+
+
 /* Hero Section */
+
+
 
 .logo-img{
 	width: auto;
@@ -125,7 +138,7 @@ ul li:hover a {
 
 /* Style main content/image*/
 
-.flex-item-left {
+/*.flex-item-left {
 	padding: 200px;
 	background-image: url("/assets/images/Background.png");
 	background-repeat: no-repeat;	
@@ -136,13 +149,16 @@ ul li:hover a {
 .textsize {
 text-align: right;
 font-size: 50px;
-}
+}*/
 
 .responsive {
 	width: 100%;
 	height: auto;
   }
-
+.flex-item-right {
+	text-align: center;
+	
+}
 
 
 
@@ -293,3 +309,5 @@ font-size: 50px;
 	}
 	
 }
+
+
