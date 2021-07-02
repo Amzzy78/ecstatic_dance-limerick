@@ -19,7 +19,7 @@ The initial mockup idea would not translate well on a mobile device as I had pla
 # ![Image of Mobile Mockup] (../assets/images/mobile.jpg)
 
 
-
+Logo svg image not loading on desktop running firefox.Trouble shooting to fix the problem.
 
 
 
