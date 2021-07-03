@@ -19,7 +19,9 @@ The initial mockup idea would not translate well on a mobile device as I had pla
 # ![Image of Mobile Mockup] (../assets/images/mobile.jpg)
 
 
-Logo svg image not loading on desktop running firefox.Trouble shooting to fix the problem.
+SVG Logo image not loading on desktop running firefox and also I could not set the image exactly where I wanted it.Trouble shooting to fix the problem. Experimented with inline and using svg as an img, as an object, and nothing seemed to fix the problem. Finally settled on using as a background image on the hero section. Then the text-tagline in the hero was out of alignment with the logo and this took some time to get right and I am not happy with where the p text is sitting in the section but for now it will do so I can move on. Also in the future I would like to animate the image logo.
+
+Validating code. 
 
 
 
