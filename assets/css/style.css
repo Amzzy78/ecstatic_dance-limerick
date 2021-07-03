@@ -87,7 +87,7 @@ ul li:hover a {
 	margin-bottom: 0px;
 	margin-left: 0px;
 	letter-spacing: 4px;
-	transform: translateY(550%);
+	transform: translateY(560%);
 	text-shadow: 0.5px 0.5px black;
 	
   
@@ -115,7 +115,7 @@ ul li:hover a {
 	font-weight: lighter;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	transform: translateY(850%);
+	transform: translateY(855%);
 	text-shadow: 0.5px 0.5px black;
 }
 
@@ -139,12 +139,16 @@ font-size: 50px;
 .responsive {
 	width: 100%;
 	height: auto;
-	filter: drop-shadow(0 0 0.25rem black);
+	
   }
 .flex-item-right {
 	text-align: center;
 	
 	
+}
+
+#img1 {
+	filter: drop-shadow(0 0 0.15rem black);
 }
 
 
