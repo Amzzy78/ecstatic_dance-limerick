@@ -93,6 +93,10 @@ ul li:hover a {
 	color: slategrey;
 }
 
+
+
+/* Hero Section */
+
 .hero_header {
 	color: #FFFFFF;
 	text-align: center;
@@ -101,22 +105,23 @@ ul li:hover a {
 	margin-bottom: 0px;
 	margin-left: 0px;
 	letter-spacing: 4px;
+	transform: translateY(550%);
+	
+	
+  
 }
 
 
 
-/* Hero Section */
-
-
-
-.logo-img{
-	width: auto;
+/*.logo-img{
+	width: 100%;
 	height: auto;
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
 	
-}
+	
+}*/
 
 
 .hero {
@@ -126,6 +131,7 @@ ul li:hover a {
 	background-image: url(/assets/images/logo1-01.svg);
 	background-repeat: no-repeat;
 	background-position: center;
+	
 	
 	
 }
@@ -141,7 +147,10 @@ ul li:hover a {
 	font-weight: lighter;
 	text-transform: uppercase;
 	letter-spacing: 1px;
+	transform: translateY(850%);
 }
+
+
 
 /* Style main content/image*/
 
