@@ -23,6 +23,8 @@ SVG Logo image not loading on desktop running firefox and also I could not set t
 
 Validating code. 
 
+Subscribe button and footer banner have stopped working when I opened the workspace today and troubleshooting to figure out what has gone wrong.
+
 
 
 Ecstatic Dance Limerick

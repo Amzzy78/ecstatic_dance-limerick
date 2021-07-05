@@ -153,21 +153,23 @@ font-size: 50px;
 
 
 
+
 	/* Style the footer */
+	
 	footer {
 		background-color: gainsboro;
 		padding-bottom: 5px;
 	}
 
 	.footer_banner {
-		background-color: gainsboro;
+		background-color: rgb(77, 74, 74);
 		padding-top: 60px;
 		padding-bottom: 60PX;
 		margin-bottom: 0px;
-		display: none;
+		
 	}
 
-	.footer_banner h5 {
+	.footer_banner h4{
 		display: none;
 	}
 
@@ -216,7 +218,7 @@ font-size: 50px;
 	}
 	.button:hover {
 		background-color: #FEFEFE;
-		color: #C4C4C4;
+		color: #111010;
 		cursor: pointer;
 	}
 	
