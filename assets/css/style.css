@@ -169,8 +169,18 @@ font-size: 50px;
 		
 	}
 
-	.footer_banner h4{
-		display: none;
+	/*.footer_banner h4 {
+		
+	}*/
+
+	.subscribe {
+		color: #FFFFFF;
+		text-align: center;
+		margin-top: 0px;
+		margin-right: 0px;
+		margin-bottom: 0px;
+		margin-left: 0px;
+		letter-spacing: 4px;
 	}
 
 	.footer {
