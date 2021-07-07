@@ -121,11 +121,12 @@ ul li:hover a {
 
 
 
-/* Style main content/image*/
+/* Style main content/images */
 
 .responsive {
 	width: 100%;
 	height: auto;
+	
 	
   }
 .flex-item-right {
@@ -139,7 +140,13 @@ ul li:hover a {
 }
 
 #dance {
-	color: #717070;
+	color: #646262;
+	
+}
+
+#paragraph {
+	color: #3f3e3e;
+	
 }
 
 
@@ -170,14 +177,14 @@ ul li:hover a {
 		text-align: center;
 		padding-top: 2px;
 		padding-bottom: 2px;
-		background-color: #717070;
+		background-color: #B3B3B3;
 		color: black;
 		font-weight: lighter;
 		letter-spacing: 2px;
 		/*border-top-width: 2px;*/
 		
 		
-	}*/
+	}
 
 	#links{
 		text-align: center;
