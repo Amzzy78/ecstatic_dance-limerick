@@ -123,19 +123,6 @@ ul li:hover a {
 
 /* Style main content/image*/
 
-/*.flex-item-left {
-	padding: 200px;
-	background-image: url("/assets/images/Background.png");
-	background-repeat: no-repeat;	
-		
-
-}
-
-.textsize {
-text-align: right;
-font-size: 50px;
-}*/
-
 .responsive {
 	width: 100%;
 	height: auto;
@@ -151,6 +138,10 @@ font-size: 50px;
 	filter: drop-shadow(0 0 0.15rem black);
 }
 
+#dance {
+	color: #717070;
+}
+
 
 
 
@@ -163,10 +154,6 @@ font-size: 50px;
 		margin-bottom: 0px;
 		
 	}
-
-	/*.footer_banner h4 {
-		
-	}*/
 
 	.subscribe {
 		color: #FFFFFF;
