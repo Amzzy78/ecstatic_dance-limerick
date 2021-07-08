@@ -221,6 +221,45 @@ ul li:hover a {
 	}
 	
 
+	/* Style social media icons */
+
+	.fa {
+		padding: 20px;
+		font-size: 30px;
+		width: 75px;
+		text-align: justify;
+		text-decoration: none;
+		margin: 5px 2px;
+		
+	  }
+	  
+	  .fa:hover {
+		opacity: 0.9;
+		color: #111010;
+	}
+	  
+	  .fa-instagram {
+		color: white;
+	  }
+	  
+	  
+	  .fa-soundcloud {
+		color: white;
+	  }
+
+	  .fa-youtube {
+		color: white;
+	  }
+
+	  
+
+	
+
+	  #fa {
+		  text-align: center;
+	  }
+	  
+
 /* Mobile */
 @media (max-width: 320px) {
 	.logo {
