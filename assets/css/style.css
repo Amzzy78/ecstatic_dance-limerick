@@ -93,6 +93,10 @@ ul li:hover a {
 	
 }
 
+#couple {
+	filter: drop-shadow(0 0 2rem black);
+}
+
 #dance {
 	color: #646262;
 	
@@ -104,7 +108,17 @@ ul li:hover a {
 	color: #646262;
 }
 
+#mind-body {
+	text-align: center;
+	color: #646262;
+	letter-spacing: 2px;
+	line-height: 50px;
+}
 
+
+
+
+	
 
 
 /* Hero Section*/
@@ -141,10 +155,11 @@ ul li:hover a {
 .tagline {
 	text-align: center;
 	color: #FFFFFF;
-	margin-top: 4px;
-	font-weight: lighter;
+	margin-top: 54px;
+	font-weight: bold;
 	text-transform: uppercase;
 	letter-spacing: 1px;
+	
 	
 }
 /* About Section */
@@ -161,11 +176,11 @@ footer {
 	float: left;
 }
 footer .footer_column h3 {
-	color: #B3B3B3;
+	color: #a39f9f;
 	text-align: center;
 }
 footer .footer_column p {
-	color: #717070;
+	color: #a39f9f;
 	background-color: #FFFFFF;
 }
 .cards {
@@ -220,7 +235,7 @@ footer .footer_column p {
 	border-top-width: 2px;
 }
 .footer_banner {
-	background-color: #B3B3B3;
+	background-color: #a39f9f;
 	padding-top: 60px;
 	padding-bottom: 60PX;
 	margin-bottom: 0px;
