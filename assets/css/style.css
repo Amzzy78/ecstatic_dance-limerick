@@ -122,25 +122,18 @@ ul li:hover a {
 
 .hero {
 	background-color: #B3B3B3;
-	padding-top: 40px;
-	padding-bottom: 40px;
-    /*background-image: url("../images/geometric_logo.png");
-	height: 5px;
+	padding-top: 140px;
+	padding-bottom: 140px;
+    background-image: url("../images/geometric_logo.png");
+	height: 0px;
 	background-position: center;
-	background-repeat: no-repeat;*/
-	/*background-size: 220px;*/
+	background-repeat: no-repeat;
+	background-size: 220px;
 
 	
 }
 
-.geometric {
-	position: relative;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 600px;
-	
-}
+
 .light {
 	font-weight: bold;
 	color: #717070;
@@ -289,10 +282,6 @@ footer {
 	margin-left: 0px;
 }
 
-.geometric {
-
-	position: relative;
-}
 .container header nav {
 	margin-top: 0px;
 	margin-right: 0px;
