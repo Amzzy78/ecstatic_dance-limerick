@@ -396,6 +396,17 @@ nav ul li {
 	width: 100%;
 	margin-top: 0px;
 }
+
+.fa {
+	padding: 20px;
+	font-size: 30px;
+	width: 75px;
+	text-align: justify;
+	text-decoration: none;
+	margin: 5px 2px;
+	float: inherit;
+	
+  }
 /*.parallax {
 	text-align: center;
 	margin-top: 0px;
