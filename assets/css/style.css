@@ -89,7 +89,7 @@ ul li:hover a {
 }
 
 #img1 {
-	filter: drop-shadow(0 0 2rem black);
+	filter: drop-shadow(0 0 0.5rem black);
 	
 }
 
@@ -137,13 +137,21 @@ ul li:hover a {
 
 .hero {
 	background-color: #a39f9f;
-	padding-top: 140px;
-	padding-bottom: 140px;
+	padding-top: 100px;
+	padding-bottom: 100px;
     background-image: url("../images/geometric_logo.png");
-	height: 0px;
+	background-size: 90px;
 	background-position: center;
 	background-repeat: no-repeat;
-	background-size: 220px;
+	/*position: relative;
+	
+	
+    /*max-width: 100%;
+	max-height: auto;
+	background-position: center;
+	
+	background-size: 220px;*/
+
 
 }
 
@@ -288,7 +296,7 @@ footer {
 	  
 
 /* Mobile */
-@media (max-width: 320px) {
+@media screen (max-width: 320px) {
 .logo {
 	width: 100%;
 	text-align: center;
@@ -318,17 +326,7 @@ nav ul li {
 	width: 100%;
 	text-align: center;
 }
-/*.text_column {
-	width: 100%;
-	text-align: justify;
-	padding-top: 0px;
-	padding-right: 0px;
-	padding-bottom: 0px;
-	padding-left: 0px;
-}*/
-/*.thumbnail {
-	width: 100%;
-}*/
+
 .footer_column {
 	width: 100%;
 	margin-top: 0px;
@@ -344,38 +342,14 @@ nav ul li {
 	float: inherit;
 	
   }
-/*.parallax {
-	text-align: center;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
-	padding-top: 40%;
-	padding-right: 0px;
-	padding-bottom: 0px;
-	padding-left: 0px;
-	width: 100%;
-	font-size: 18px;
-}
-.parallax_description {
-	padding-top: 0px;
-	padding-right: 0px;
-	padding-bottom: 0px;
-	padding-left: 0px;
-	width: 90%;
-	margin-top: 25px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 12px;
-	float: none;
-	text-align: center;
-}*/
+
 .banner {
 	background-color: #B3B3B3;
 }
 .tagline {
 	margin-top: 20px;
 	line-height: 22px;
+	
 }
 .hero_header {
 	padding-left: 10px;
@@ -438,53 +412,8 @@ nav ul li {
 	width: 100%;
 	margin-top: 0px;
 }
-/*.parallax {
-	text-align: center;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
-	padding-top: 40%;
-	padding-right: 0px;
-	padding-bottom: 0px;
-	padding-left: 0px;
-	width: 100%;
-	font-size: 18px;
-}
-.parallax_description {
-	padding-top: 0px;
-	padding-right: 0px;
-	padding-bottom: 0px;
-	padding-left: 0px;
-	margin-top: 30%;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
-	float: none;
-	width: 100%;
-	text-align: center;
-}
-.thumbnail {
-	width: 50%;
-}
-.parallax {
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
-	padding-right: 0px;
-	padding-bottom: 0px;
-	padding-left: 0px;
-	padding-top: 20%;
-}
-.parallax_description {
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
-	width: 100%;
-	padding-top: 30px;
-}*/
+
+
 .banner {
 	padding-left: 20px;
 	padding-right: 20px;
@@ -499,20 +428,7 @@ nav ul li {
 .text_column {
 	width: 100%;
 }
-/*.thumbnail {
-	width: 50%;
-}
-.text_column {
-	width: 100%;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
-	padding-top: 0px;
-	padding-right: 0px;
-	padding-bottom: 0px;
-	padding-left: 0px;
-}*/
+
 .banner {
 	margin-top: 0px;
 	padding-top: 0px;
