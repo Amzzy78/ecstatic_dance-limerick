@@ -434,3 +434,17 @@ nav ul li {
 	padding-top: 0px;
 }
 }
+
+
+
+
+/* For mobile phones: */
+  
+  @media only screen and (max-width: 620px) {
+	
+	.container, .logo, .nav{
+	 max-width: 100%;
+	 max-height: auto;
+	}
+  }
+ 
