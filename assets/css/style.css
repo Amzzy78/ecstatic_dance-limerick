@@ -99,9 +99,7 @@ ul li:hover a {
 
 .dance{
 	color: #646262;
-	
-	
-	
+		
 }
 
 .questions {
@@ -113,6 +111,11 @@ ul li:hover a {
 	color: #646262;
 	letter-spacing: 2px;
 	line-height: 50px;
+}
+
+iframe {
+	width: 400px;
+	height: 200px;
 }
 
 
@@ -174,7 +177,7 @@ form {
 
 
 
-/* About Section */
+/* Footer */
 
 /* More info */
 footer {
@@ -258,6 +261,11 @@ footer {
 }
 .hidden {
 	display: none;
+}
+
+.image_logo {
+	width: 5%;
+	height: 5%;
 }
 
 /* Style social media icons */
@@ -365,10 +373,6 @@ nav ul li {
 	width: 100%;
 }
 
-#gmap_canvas {
-	max-width: 100%;
-	max-height: auto;
-}
 }
 
 
@@ -463,6 +467,11 @@ nav ul li {
 	
 	.cards {
 		width: auto;
+	}
+
+	iframe {
+		width: 100%;
+		height: auto;
 	}
   }
  
