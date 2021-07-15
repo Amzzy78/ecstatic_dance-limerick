@@ -99,18 +99,22 @@ ul li:hover a {
 
 .dance{
 	color: #646262;
+	letter-spacing: 2px;
+	line-height: 25px;
 		
 }
 
 .questions {
 	color: #646262;
+	letter-spacing: 2px;
+	line-height: 25px;
 }
 
 #mind-body {
 	text-align: center;
 	color: #646262;
 	letter-spacing: 2px;
-	line-height: 50px;
+	line-height: 25px;
 }
 
 iframe {
@@ -432,9 +436,6 @@ nav ul li {
 
 /* Small Desktops */
 @media (min-width: 768px) and (max-width: 1096px) {
-/*.text_column {
-	width: 100%;
-}*/
 
 .banner {
 	margin-top: 0px;
