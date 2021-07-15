@@ -371,6 +371,9 @@ nav ul li {
 
 }
 
+
+
+
 /* Small Tablets */
 @media (min-width: 321px)and (max-width: 767px) {
 .logo {
@@ -450,11 +453,17 @@ nav ul li {
 
 /* For mobile phones: */
   
-  @media only screen and (max-width: 620px) {
+  @media screen and (max-width: 620px) {
 	
-	.container .logo .nav{
+	.container , .logo, .nav{
 	 max-width: 100%;
 	 max-height: auto;
+	}
+
+	#feedback {
+		max-width: 100%;
+		max-height: auto;
+	
 	}
   }
  
