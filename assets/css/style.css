@@ -36,9 +36,8 @@ header {
 	
 }
 .logo {
-	color: #fff;
+	color:black;
 	font-weight: bold;
-	/*text-align: undefined;*/
 	width: auto;
 	float: left;
 	margin-top: 15px;
