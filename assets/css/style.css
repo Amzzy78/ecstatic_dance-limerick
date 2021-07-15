@@ -38,7 +38,7 @@ header {
 .logo {
 	color: #fff;
 	font-weight: bold;
-	text-align: undefined;
+	/*text-align: undefined;*/
 	width: auto;
 	float: left;
 	margin-top: 15px;
@@ -307,7 +307,7 @@ footer {
 	  
 
 /* Mobile */
-@media screen (max-width: 320px) {
+@media (max-width: 320px) {
 .logo {
 	width: 100%;
 	text-align: center;
@@ -374,7 +374,6 @@ nav ul li {
 }
 
 }
-
 
 
 
@@ -450,19 +449,29 @@ nav ul li {
   
   @media screen and (max-width: 620px) {
 	
-	.container , .logo, .nav{
+	.container  {
 	 max-width: 100%;
-	 max-height: auto;
+	 max-height: inherit;
+	}
+
+	.logo {
+		max-width: 100%;
+		max-height: inherit;
+	}
+
+	.nav {
+		max-width: 100%;
+		max-height: inherit;
 	}
 
 	#feedback {
 		max-width: 100%;
-		max-height: auto;
+		max-height: inherit;
 	
 	}
 	.footer_column {
 		max-width: 100%;
-		max-height: auto;
+		max-height: inherit;
 	}
 	
 	.cards {
