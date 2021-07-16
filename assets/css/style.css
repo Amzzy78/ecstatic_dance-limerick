@@ -147,7 +147,7 @@ iframe {
 
 
 .hero {
-	background-color: #a39f9f;
+	background-color: #807878;
 	padding-top: 100px;
 	padding-bottom: 100px;
     background-image: url("../images/geometric_logo.png");
@@ -221,11 +221,11 @@ footer {
 	float: left;
 }
 footer .footer_column h3 {
-	color: #a39f9f;
+	color: #6d5959;
 	text-align: center;
 }
 footer .footer_column p {
-	color: #a39f9f;
+	color: #998c8c;
 	background-color: #FFFFFF;
 }
 .cards {
@@ -385,7 +385,7 @@ nav ul li {
   }
 
 .banner {
-	background-color: #B3B3B3;
+	background-color: #998989;
 }
 .tagline {
 	margin-top: 20px;
@@ -427,7 +427,7 @@ nav ul li {
 	float: none;
 	overflow: auto;
 	display: inline-block;
-	background: #a7a5a5;
+	background: #8b8787;
 }
 header nav ul {
 	padding: 0px;
