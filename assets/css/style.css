@@ -12,12 +12,10 @@ body {
 	margin-bottom: 0px;
 	margin-left: 0px;
 	font-style: normal;
-	font-weight: 200;
-	
-	
+	font-weight: 200;	
 }
-/* Container */
 
+/* Container */
 
 .container {
 	position: absolute;
@@ -27,14 +25,15 @@ body {
 	height: 1000px;
 	background-color: whitesmoke;
 }
+
 /* Navigation */
+
 header {
 	width: 100%;
 	height: 5%;
-	background-color: #B3B3B3;
-	
-	
+	background-color: #B3B3B3;	
 }
+
 .logo {
 	color:black;
 	font-weight: bold;
@@ -78,13 +77,15 @@ ul li:hover a {
 .responsive {
 	width: 100%;
 	height: auto;
-	
-	
   }
+
+  .responsive-auto {
+	width: 100%;
+	height: 800px;
+	  
+  } 
 .flex-item-right {
-	text-align: center;
-	
-	
+	text-align: center;	
 }
 
 #img1 {
@@ -100,6 +101,7 @@ ul li:hover a {
 	color: #646262;
 	letter-spacing: 2px;
 	line-height: 25px;
+	
 		
 }
 
@@ -483,6 +485,33 @@ nav ul li {
 	iframe {
 		width: 100%;
 		height: auto;
+	}
+	#mind-body {
+		font-size: 4vw;
+		letter-spacing: 2px;
+	    line-height: 25px;
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+
+	#margins {
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+	#margins-2 {
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+	#margins-3 {
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+
+	#margins-4 {
+		font-size: 4vw;
+		letter-spacing: 2px;
+		margin-left: 20px;
+		margin-right: 20px;
 	}
   }
  
