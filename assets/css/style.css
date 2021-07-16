@@ -190,6 +190,7 @@ form {
 /* Footer */
 
 /* More info */
+
 footer {
 	background-color: #FFFFFF;
 	padding-bottom: 35px;
@@ -272,7 +273,7 @@ footer .footer_column p {
 	text-align: center;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	background-color: #B3B3B3;
+	background-color: #9e9595;
 	color: #413d3d;
 	text-transform: uppercase;
 	font-weight: lighter;
