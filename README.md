@@ -1,6 +1,9 @@
 ESCATAIC DANCE LIMERICK
-# ![Image of logo] (../assets/images/logo.png)
+# ![alt text] (../assets/images/logo.png)
 
+# ![Image of Event page over three devices] (../assets/images/responsive-image1.jpg)
+# ![Image of Connect page over three devices] (../assets/images/responsive-image2.jpg)
+# ![Image of Guidelines page over three devices] (../assets/images/responsive-image3.jpg)
 
 View deployed site here: https://amzzy78.github.io/ecstatic_dance-limerick/index.html
 
@@ -48,14 +51,16 @@ Footer section with links,logo and copyright.
 # ![Image of footer section] (../assets/images/footer-copyright-section.jpg)
 
 
-Images throughout the site suitable to the event.
+Images and video throughout the site suitable to the event.
 
 Subscribe button on connect page is linked to a subscribe page when details filled out and sent.
 
 
 Implementing
 
-First Mockup:
+Wireframe Mockups:
+
+First Mockup
 After talking with my tutor on the first draught, there were some issues she spotted that I had not considered when on a mobile phone device.
 The initial mockup idea would not translate well on a mobile device as the planned layout for the nav bar I wanted for the Ecstatic Dance Limerick would not translate well when on a mobile. It would be too many words in the header fighting for space. Modified to suit by playing with letter-spacing and margins left/right.
 
@@ -93,9 +98,7 @@ Hover active on page currently on.
 Subscribe page to be linked to button as is only linked to the form on Connect page(contact us).
 
 Testing
-
 Validating showed up alot of errors in my code and this has taken me alot of time to fix.It was a very good learning tool for my errors.
-
 HTML tested https://validator.w3.org/
 CSS tested https://jigsaw.w3.org/css-validator/
 
@@ -121,6 +124,12 @@ A different site called site improve confirmed it passed at 96% accessibilty.
 # ![Image of accessibilty validation (../assets/images/site-map-details.jpg)
 
 
+Plagiarism:
+Checking to make sure I credit every source.
+https://smallseotools.com/plagiarism-checker/
+# ![Image of plagairisim checker (../assets/images/plagairisim-checker.jpg)
+
+
 Unfixed Bugs
 Hover not active on page currently on. 
 Subscribe page needs to be linked to subscribe button as is only linked to the form on Connect page(contact us).
@@ -128,12 +137,79 @@ Subscribe page needs to be linked to subscribe button as is only linked to the f
 
 
 Deployment
+The site was deployed to GitHub pages. 
+The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+The live link can be found here - https://amzzy78.github.io/ecstatic_dance-limerick/index.html
+
+
 
 Credits
+https://www.ecstaticdancela.com/homepage/
+https://ecstaticdance.org/resources/
+https://kilmurrycentre.com/about-us/
+https://www.facebook.com/events/hayfork-yoga-center/ecstatic-dance/462021097690846/
+https://en.wikipedia.org/wiki/Ecstatic_dance/
+https://www.facebook.com/ecstaticdancelasvegas/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://en.wikipedia.org/wiki/Gabrielle_Roth/
+https://www.w3schools.com/howto/howto_make_a_website.asp
+
 
 Content
+The text for all pages are a mix taken from two sites https://www.ecstaticdancela.com/homepage and https://ecstaticdance.org/media/
+Quotes from  Gabrielle Roth https://en.wikipedia.org/wiki/Gabrielle_Roth
+Instructions on how to implement form validation on the Connect page was taken from a Code Institute Tutorial.
+
+W3schools for tutorials on all stages and used/modified a mix of code from a template in dreamweaver and an old website I half built.I got a bit confused as was drawing from too many sources and caused alot more work more than I needed to do.
+https://www.w3schools.com/howto/howto_make_a_website.asp
+
+The social media icons in the footer banner were taken from Font Awesome.
+Tutorials on https://css-tricks.com/snippets/css/a-guide-to-flexbox/ for flexbox build.
+FreeCode Academy for flexbox, svg and responsive media queries https://www.freecodecamp.org/news/tag/svg/
+
+
 
 Media
+The photos and videos used on all pages are from https://www.pexels.com/collections/dance-xlb5itr/
+
+
+UX
+Ideal client
+The ideal customer for this event is:
+Looking for a weekly dance practice.
+Conscious Dancers already in the movement.
+Lives in Limerick or passing through. Open for 18-80++ age, all walks of life.
+Visitors to this website are searching for:
+An Ecstatic Dance Event to attend.
+
+
+This website is:
+Easy to navigate.
+Steps the client through easy to understand learnable information.
+Gives the client the information they need without overloading them.
+Guiding them to the goal of the website - to fill out the contact form.
+
+Client stories
+As a new visitor to the website, I want to easily navigate the site, so I can find what I need efficiently.
+As a new visitor to the website, I want to view the event details.
+
+As an interested client, I want an easy to fill in contact form, so I can make contact with the event organisers for updated information.
+As an interested observer and/or potential client, I want to follow the event on social media, so I can keep up with the latest news.
+
+As a returning visitor to the website, who has already decided to attend the event, I want to see a function to buy tickets for the event.
+
+
+
+
+
+
+
+
+
+
 
 
 
