@@ -258,8 +258,8 @@ footer .footer_column p {
 }
 .copyright {
 	text-align: center;
-	padding-top: 20px;
-	padding-bottom: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 	background-color: #b9b3b3;
 	color: #2e2b2b;
 	text-transform: uppercase;
@@ -268,9 +268,9 @@ footer .footer_column p {
 	border-top-width: 2px;
 }
 .footer_banner {
-	background-color: #717070;
-	padding-top: 60px;
-	padding-bottom: 60PX;
+	background-color: #5a5252;
+	padding-top: 20px;
+	padding-bottom: 20PX;
 	margin-bottom: 0px;
 	
 }
