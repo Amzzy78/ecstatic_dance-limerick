@@ -180,15 +180,7 @@ form {
 	color: #646262;
 }
 
-
-/* Footer */
-
-/* More info */
-
-footer {
-	background-color: #FFFFFF;
-	padding-bottom: 35px;
-}
+/* Form on Connect page */
 
 #submit {
 	background-color: #696464;
@@ -207,6 +199,13 @@ footer {
 
 #email-field {
 	border: 0.2px solid #524d4d;
+}
+
+/* Event and Location section */
+
+footer {
+	background-color: #FFFFFF;
+	padding-bottom: 35px;
 }
 
 .footer_column {
@@ -259,8 +258,8 @@ footer .footer_column p {
 	text-transform: uppercase;
 	font-weight: bold;
 	letter-spacing: 2px;
-	border: 3px solid #FFFFFF;
-	color: #FFFFFF;
+	border: 3px solid #ffffff;
+	color: #292626;
 	transition: all 0.3s linear;
 }
 
@@ -269,21 +268,19 @@ footer .footer_column p {
 	color: #a19696;
 	cursor: pointer;
 }
-
-.copyright {
+/* was copyright now footer*/
+.footer {
 	text-align: center;
-	padding-top: 5px;
-	padding-bottom: 5px;
-	background-color: #b9b3b3;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	background-color: #d6d2d2;
 	color: #2e2b2b;
-	text-transform: uppercase;
-	font-weight: lighter;
 	letter-spacing: 2px;
-	border-top-width: 2px;
+	
 }
-
-.footer_banner {
-	background-color: #5a5252;
+/* was footer_banner now subscribe_banner */
+.subscribe_banner {
+	background-color: #a59e9e;
 	padding-top: 20px;
 	padding-bottom: 20PX;
 	margin-bottom: 0px;
@@ -299,43 +296,8 @@ footer {
 }
 
 .image_logo {
-	width: 5%;
-	height: 5%;
-}
-
-/* Style social media icons */
-
-.fa {
-	padding: 20px;
-	font-size: 30px;
-	width: 75px;
-	text-align: justify;
-	text-decoration: none;
-	margin: 5px 2px;
-
-}
-
-.fa:hover {
-	opacity: 0.9;
-	color: #111010;
-}
-
-.fa-instagram {
-	color: white;
-}
-
-
-.fa-soundcloud {
-	color: white;
-}
-
-.fa-youtube {
-	color: white;
-}
-
-
-#fa {
-	text-align: center;
+	width: 2%;
+	height: 2%;
 }
 
 
@@ -375,17 +337,6 @@ footer {
 	.footer_column {
 		width: 100%;
 		margin-top: 0px;
-	}
-
-	.fa {
-		padding: 20px;
-		font-size: 30px;
-		width: 75px;
-		text-align: justify;
-		text-decoration: none;
-		margin: 5px 2px;
-		float: inherit;
-
 	}
 
 	.banner {

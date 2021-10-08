@@ -1,181 +1,26 @@
-ESCATAIC DANCE LIMERICK
+# Ecstatic Dance Limerick
+Welcome! deployed link here:
+
+
+Welcome to Ecstatic Dance Limerick!
+
+This website is to be a digital poster for a weekly event based in Limerick, Ireland. The site will feature the event details, guidelines and contact pages. The website features two videos that have no sound but are to portray the essence of an Ecstatic Dance event, where silence is also part of the dance. Images throughout the site to show the diversity and inclusive nature of the event. 
+A guideline's page to explain what is required at these events, such as a code of conduct to adhere to, and a connect page with subscribe functions.
+A clear nav bar with 3 pages and footer with important links(safety, guidelines, contact us, privacy policy). 
+
+It is a fully responsive site. The primary goal of the website is to promote an Ecstatic Dance event in Limerick city at the Killmurry Arts and Community centre, and be an online presence like a virtual poster with regular updating of information about the weekly event. The site will be targeted toward building a community of locals looking to express themselves through a free-form dance movement. It will be a space for people wishing to connect with a conscious dancing community that is outside the regular dance/club scene in Ireland.
+
+![Responsive Mockup](https://user-images.githubusercontent.com/.jpg) ..refill with correct image
+
 # ![alt text] (../assets/images/logo.png)
 
 # ![Image of Event page over three devices] (../assets/images/responsive-image1.jpg)
 # ![Image of Connect page over three devices] (../assets/images/responsive-image2.jpg)
 # ![Image of Guidelines page over three devices] (../assets/images/responsive-image3.jpg)
 
-View deployed site here: https://amzzy78.github.io/ecstatic_dance-limerick/index.html
 
 
-Welcome to Ecstatic Dance Limerick's Website,
-
-A website for a weekly event based in Limerick, Ireland. The site will feature the event details, guidelines and contact us pages. The website features two videos that have no sound but are to portray the essence of an Ecstatic Dance event, where silence is also part of the dance. Images throughout the site to show the diversity and inclusive nature of the event. 
-A guidelines page to explain what is required at these events, such as a code of conduct to adhere to, and a connect page with subscribe functions.
-A clear nav bar with 3 pages and footer with important links(safety, guidelines,contact us, privacy policy). 
-
-It is a fully resonsive site. The primary goal of the website is to promote an Ecstatic Dance event in Limerick city at the Killmurry Arts and Community center, and be a online presence like a virtual poster with regular updating of information about the weekly event. The site will be targeted toward building a community of locals looking to express themselves through a free-form dance movement. It will be a space for people wishing to connect with a conscious dancing community that is outside of the regular dance/club scene in Ireland.
-
-Potential customers should be making first contact with the website via the event page.
-
-
-Existing Features
-
-Navigation Bar
-# ![Image of navbar] (../assets/images/nav-bar.jpg)
-
-Featured on all three pages, the fully responsive website has a navigation bar which includes links to the text Logo, Event page(home), Guidelines and Connect page(contact us) and is identical in each page to allow for easy of navigation.
-
-# ![Image of navbar] (../assets/images/navbar-mobile.jpg)
-
-Hero section
-# ![Image of hero header] (../assets/images/hero-section.jpg)
-Contains logo image/ text and tagline.
-
-About section
-# ![Image of about section] (../assets/images/about-section-1.jpg)
-# ![Image of about section] (../assets/images/about-section-2.jpg)
-
-The about section contains text information about the event, images and a video clip with no audio.
-
-Footer column section
-# ![Image of footer column section] (../assets/images/footer-column-section.jpg)
-Event details,price,time and day on an image poster. This can be updated regularly with new images. Location with google maps and brief description.
-
-Footer banner section
-Subscribe button section.
-# ![Image of footer banner section] (../assets/images/footer-banner-section.jpg)
-
-
-Footer section with links,logo and copyright.
-# ![Image of footer section] (../assets/images/footer-copyright-section.jpg)
-
-
-Images and video throughout the site suitable to the event.
-
-Subscribe button on connect page is linked to a subscribe page when details filled out and sent.
-
-
-Implementing
-
-Wireframe Mockups:
-
-First Mockup
-After talking with my tutor on the first draught, there were some issues she spotted that I had not considered when on a mobile phone device.
-The initial mockup idea would not translate well on a mobile device as the planned layout for the nav bar I wanted for the Ecstatic Dance Limerick would not translate well when on a mobile. It would be too many words in the header fighting for space. Modified to suit by playing with letter-spacing and margins left/right.
-
-# ![Image of Mobile Mockup] (../assets/images/mobile.jpg)
-# ![Image of Mobile Mockup] (../assets/images/landing-page.png)
-
-Logo image:
-# ![Image of svg logo] (../assets/images/logo1-01.svg)
-# ![Image of logo jpg] (../assets/images/geometric_logo.png)
-
-
-The logo I wanted to use was an SVG and this took alot of trying to write the correct css and finding the correct placement.
-
-SVG Logo image was not loading on desktop running firefox and also I could not set the image exactly where I wanted it.Trouble shooting to fix the problem. Experimented with inline and using svg as an img, as an object, and nothing seemed to fix the problem. Finally settled on using as a background image on the hero section. Then the text-tagline in the hero was out of alignment with the logo and this took some time to get right.
-
-I settled on a jpg of the logo and it works right across all browsers.
-
-The Subscribe button and footer banner and navbar stopped being responsive and troubleshooting to figure out what went gone wrong with my media queries and inputs. This I spent alot of time trying to fix to the point that I cut the whole code out and rebuilt it again. 
-
-Guidelines:
-# ![Image of guidelines page 1] (../assets/images/guidelines-page.jpg)
-# ![Image of guidelines page 2] (../assets/images/guidelines-page2.jpg)
-
-Connect:
-# ![Image of connect nav,header and hero image] (../assets/images/connect-page.jpg
-# ![Image of connect form.subscribe button] (../assets/images/gconnect-form.jpg
-
-
-
-Features Left to Implement:
-  
-Animation to the image logo.
-Shopping cart for ticket sales.
-Hover active on page currently on.
-Subscribe page to be linked to button as is only linked to the form on Connect page(contact us).
-
-Testing
-Validating showed up alot of errors in my code and this has taken me alot of time to fix.It was a very good learning tool for my errors.
-HTML tested https://validator.w3.org/
-CSS tested https://jigsaw.w3.org/css-validator/
-
-Validator Testing
-
-Images Validation:
-# ![Image of html] (../assets/images/html-validation.jpg)
-# ![Image of css (../assets/images/css-validation.jpg)
-# ![Image of guidelines.html (../assets/images/guidelines-validation.jpg)
-# ![Image of connect.html (../assets/images/connect-validation.jpg)
-# ![Image of subscribe.html (../assets/images/subscribe-validation.jpg)
-# ![Image of privacy.html (../assets/images/privacy-validation.jpg)
-
-Accessibility:
-I did not get to solve all the accessibility issues. Color contrast was an issue and I styled the header and footer darker to fix the color. There is more work to be done to get 100%.
-The website evaluator below shows their current analysis.
-https://wave.webaim.org/report#/https://amzzy78.github.io/ecstatic_dance-limerick/index.html
-
-# ![Image of color contrast accessibilty (../assets/images/colour-contrast.jpg)
-
-A different site called site improve confirmed it passed at 96% accessibilty.
-# ![Image of accessibilty validation (../assets/images/sitemap-accessibility-validation.jpg)
-# ![Image of accessibilty validation (../assets/images/site-map-details.jpg)
-
-
-Plagiarism:
-Checking to make sure I credit every source.
-https://smallseotools.com/plagiarism-checker/
-# ![Image of plagairisim checker (../assets/images/plagairisim-checker.jpg)
-
-
-Unfixed Bugs
-Hover not active on page currently on. 
-Subscribe page needs to be linked to subscribe button as is only linked to the form on Connect page(contact us).
-
-
-
-Deployment
-The site was deployed to GitHub pages. 
-The steps to deploy are as follows:
-In the GitHub repository, navigate to the Settings tab
-From the source section drop-down menu, select the Master Branch
-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here - https://amzzy78.github.io/ecstatic_dance-limerick/index.html
-
-
-
-Credits
-https://www.ecstaticdancela.com/homepage/
-https://ecstaticdance.org/resources/
-https://kilmurrycentre.com/about-us/
-https://www.facebook.com/events/hayfork-yoga-center/ecstatic-dance/462021097690846/
-https://en.wikipedia.org/wiki/Ecstatic_dance/
-https://www.facebook.com/ecstaticdancelasvegas/
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-https://en.wikipedia.org/wiki/Gabrielle_Roth/
-https://www.w3schools.com/howto/howto_make_a_website.asp
-
-
-Content
-The text for all pages are a mix taken from two sites https://www.ecstaticdancela.com/homepage and https://ecstaticdance.org/media/
-Quotes from  Gabrielle Roth https://en.wikipedia.org/wiki/Gabrielle_Roth
-Instructions on how to implement form validation on the Connect page was taken from a Code Institute Tutorial.
-
-W3schools for tutorials on all stages and used/modified a mix of code from a template in dreamweaver and an old website I half built.I got a bit confused as was drawing from too many sources and caused alot more work more than I needed to do.
-https://www.w3schools.com/howto/howto_make_a_website.asp
-
-The social media icons in the footer banner were taken from Font Awesome.
-Tutorials on https://css-tricks.com/snippets/css/a-guide-to-flexbox/ for flexbox build.
-FreeCode Academy for flexbox, svg and responsive media queries https://www.freecodecamp.org/news/tag/svg/
-
-
-
-Media
-The photos and videos used on all pages are from https://www.pexels.com/collections/dance-xlb5itr/
-
-
+# User Experience (UX)
 UX
 Ideal client
 The ideal customer for this event is:
@@ -184,7 +29,6 @@ Conscious Dancers already in the movement.
 Lives in Limerick or passing through. Open for 18-80++ age, all walks of life.
 Visitors to this website are searching for:
 An Ecstatic Dance Event to attend.
-
 
 This website is:
 Easy to navigate.
@@ -202,18 +46,6 @@ As an interested observer and/or potential client, I want to follow the event on
 As a returning visitor to the website, who has already decided to attend the event, I want to see a function to buy tickets for the event.
 
 
-----------------------------------------------------
-New ReadMe.
-
-# Ecstatic Dance Limerick
-Welcome! deployed link here...
-
-INTRO to App....
-
-![Responsive Mockup](https://user-images.githubusercontent.com/.jpg) ..refill with correct image
-
-
-# User Experience (UX)
 
 ## First Time Visitor Goals: rewrite to fit this app
 
@@ -250,75 +82,154 @@ INTRO to App....
 
 ## Existing Features
   -----------------
-   ### Header Text Logo 
-   ![logo](https://user-images.githubusercontent.com/62209464/130655179-3788cfeb-d2c7-428f-a048-961b2a46201e.jpg)
-   The text logo PSYCHEDLIC QUOTES in the header is a clickable link that refreshes the page which resets the quote generator to its default position. When hovering over the logo an underline appears to suggest it is a link.
 
-   ### Heading
-   ![logo/heading](https://user-images.githubusercontent.com/62209464/130656485-8ebe98a1-e061-4855-b085-b6d502b65a4c.jpg)
+  Navigation Bar
+# ![Image of navbar] (../assets/images/nav-bar.jpg)
 
-   ###
+Featured on all three pages, the fully responsive website has a navigation bar which includes links to the text Logo, Event page(home), Guidelines and Connect page(contact us) and is identical in each page to allow for easy of navigation.
 
-   ###
+# ![Image of navbar] (../assets/images/navbar-mobile.jpg)
+
+Hero section
+# ![Image of hero header] (../assets/images/hero-section.jpg)
+Contains logo image/ text and tagline.
+
+About section
+# ![Image of about section] (../assets/images/about-section-1.jpg)
+# ![Image of about section] (../assets/images/about-section-2.jpg)
+
+The about section contains text information about the event, images and a video clip with no audio.
+
+Footer column section
+# ![Image of footer column section] (../assets/images/footer-column-section.jpg)
+Event details,price,time and day on an image poster. This can be updated regularly with new images. Location with google maps and brief description.
+
+Footer banner section
+Subscribe button section.
+# ![Image of footer banner section] (../assets/images/footer-banner-section.jpg)
+
+
+Footer section with links,logo and copyright.
+# ![Image of footer section] (../assets/images/footer-copyright-section.jpg)
+
+
+Images and video throughout the site suitable to the event.
+
+Subscribe button on connect page is linked to a subscribe page when details filled out and sent.
+  
 
 ## Design
    --------------
    ### Colour palette:
-   Based on the 60's colour scheme.
-   ![](https://user-images.githubusercontent.com/62209464/131177633-6d85bbe0-0bd3-4a69-824f-8b79e3db01fa.jpg)
-
-   Quotes colour array.
-   ![](https://user-images.githubusercontent.com/62209464/131177655-4f1b27a3-042c-4da9-a9c7-51fb10ab3197.jpg)
    
    ### Typography:
-   Ohno Blazeface from Adobe fonts, also based on the psychedelic 60s typography.
-   ![](https://user-images.githubusercontent.com/62209464/131178240-ce72cd64-5234-4032-99a6-bf3e2174f7da.jpg)
+  
    ### Imagery:
-   Psychedelic inspired images from Adobe and resized in Photoshop.
+Logo image:
+# ![Image of svg logo] (../assets/images/logo1-01.svg)
+# ![Image of logo jpg] (../assets/images/geometric_logo.png)
 
-   ## Wireframes
+
+The logo I wanted to use was an SVG and this took alot of trying to write the correct css and finding the correct placement.
+
+SVG Logo image was not loading on desktop running firefox and also I could not set the image exactly where I wanted it.Trouble shooting to fix the problem. Experimented with inline and using svg as an img, as an object, and nothing seemed to fix the problem. Finally settled on using as a background image on the hero section. Then the text-tagline in the hero was out of alignment with the logo and this took some time to get right.
+
+I settled on a jpg of the logo and it works right across all browsers.
+
+The Subscribe button and footer banner and navbar stopped being responsive and troubleshooting to figure out what went gone wrong with my media queries and inputs. This I spent alot of time trying to fix to the point that I cut the whole code out and rebuilt it again. 
+   
+
+## Wireframes
    1. Desktop
 
-   ![](https://user-images.githubusercontent.com/62209464/130970949-a012a0f3-b27e-4f3c-96ca-641b93d2ebc2.png)
+   ![]()
 
    2. Mobile
 
-   ![](https://user-images.githubusercontent.com/62209464/130971341-732ae8e2-27ae-46d9-bb9b-c14e60031d3b.jpg)
+   ![]()
+
+First Mockup
+After talking with my tutor on the first draught, there were some issues she spotted that I had not considered when on a mobile phone device.
+The initial mockup idea would not translate well on a mobile device as the planned layout for the nav bar I wanted for the Ecstatic Dance Limerick would not translate well when on a mobile. It would be too many words in the header fighting for space. Modified to suit by playing with letter-spacing and margins left/right.
+
+Guidelines:
+# ![Image of guidelines page 1] (../assets/images/guidelines-page.jpg)
+# ![Image of guidelines page 2] (../assets/images/guidelines-page2.jpg)
+
+Connect:
+# ![Image of connect nav,header and hero image] (../assets/images/connect-page.jpg
+# ![Image of connect form.subscribe button] (../assets/images/gconnect-form.jpg
+
 
 
 ## Testing
 --------------------------------------
+Validating showed up alot of errors in my code and this has taken me alot of time to fix.It was a very good learning tool for my errors.
+### HTML tested https://validator.w3.org/
+### CSS tested https://jigsaw.w3.org/css-validator/
+
 ### Unicorn Revealer:
 This dev tool helped in revealing where there was overflow from the image gallery container which was affecting the responsive layout on the iPhone 5/SE. 
 ### Lighthouse metrics:
 Focused on improving the overall performance score by eliminating render-blocking resources which in particular had to do with the external typekit and issues with preloading. Created a second css stylesheet with the Adobe typekit and linked in html. Followed suggestions by Lighthouse to improve score: Added <link rel="preload"> and to css and js file in the header and <script...defer></script> in the body. This enabled the script to be downloaded in parallel to parsing the page, and executed after the page finished parsing. 
 
 ### Mobile score:
-![](https://user-images.githubusercontent.com/62209464/131176376-4cb7a938-8fa0-40ee-aecd-a586715c931d.png)
+![]()
 ### Desktop score:
-![](https://user-images.githubusercontent.com/62209464/131175129-b2bf58b1-7d54-4096-aca1-60d5b5f70c3d.png)
+![]()
 
 ## Validator Testing
 --------------------------------------
+Images Validation:
+# ![Image of html] (../assets/images/html-validation.jpg)
+# ![Image of css (../assets/images/css-validation.jpg)
+# ![Image of guidelines.html (../assets/images/guidelines-validation.jpg)
+# ![Image of connect.html (../assets/images/connect-validation.jpg)
+# ![Image of subscribe.html (../assets/images/subscribe-validation.jpg)
+# ![Image of privacy.html (../assets/images/privacy-validation.jpg)
 HTML: 
-![](https://user-images.githubusercontent.com/62209464/130991058-621a6843-758d-41f7-9c1c-e5f3c6caca29.png)
+![]()
 CSS:
-![](https://user-images.githubusercontent.com/62209464/130996285-b146ec74-619c-4909-8f30-06624470d19f.png)
+![]()
 JS:
-![](https://user-images.githubusercontent.com/62209464/131172727-2f1d4899-c196-4e20-bab9-67c8c57e6206.png)
+![]()
 Color Contrast Accessibility Validator:
-![](https://user-images.githubusercontent.com/62209464/130998702-7ede7c1c-319f-4775-856f-74de73694a48.png)
+![]()
 Web Content Accessibility Guidelines (WCAG) 2.1 standards:
-![](https://user-images.githubusercontent.com/62209464/130998964-0107cce5-fe48-4e6a-b78f-3c3571f528d1.png)
+![]()
+
+Accessibility:
+I did not get to solve all the accessibility issues. Color contrast was an issue and I styled the header and footer darker to fix the color. There is more work to be done to get 100%.
+The website evaluator below shows their current analysis.
+https://wave.webaim.org/report#/https://amzzy78.github.io/ecstatic_dance-limerick/index.html
+
+# ![Image of color contrast accessibilty (../assets/images/colour-contrast.jpg)
+
+A different site called site improve confirmed it passed at 96% accessibilty.
+# ![Image of accessibilty validation (../assets/images/sitemap-accessibility-validation.jpg)
+# ![Image of accessibilty validation (../assets/images/site-map-details.jpg)
+
+Plagiarism:
+Checking to make sure I credit every source.
+https://smallseotools.com/plagiarism-checker/
+# ![Image of plagairisim checker (../assets/images/plagairisim-checker.jpg)
+
 
 ### Fixed Bugs
 --------------------------------------
 
+
 ### Unfixed Bugs
 ------------------------------
+Hover not active on page currently on. 
+Subscribe page needs to be linked to subscribe button as is only linked to the form on Connect page(contact us).
 
 ## Features Left to Implement
 -------------------------------- 
+Animation to the image logo.
+Shopping cart for ticket sales.
+Hover active on page currently on.
+Subscribe page to be linked to button as is only linked to the form on Connect page(contact us).
 
 ## Deployment
 -------------------------------------
@@ -329,6 +240,33 @@ The live link can be found here -  https://amzzy78.github.io/psychedelic-quotes-
 
 ### Credits
 -------------------------------------
+https://www.ecstaticdancela.com/homepage/
+https://ecstaticdance.org/resources/
+https://kilmurrycentre.com/about-us/
+https://www.facebook.com/events/hayfork-yoga-center/ecstatic-dance/462021097690846/
+https://en.wikipedia.org/wiki/Ecstatic_dance/
+https://www.facebook.com/ecstaticdancelasvegas/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://en.wikipedia.org/wiki/Gabrielle_Roth/
+https://www.w3schools.com/howto/howto_make_a_website.asp
+
+
+Content
+The text for all pages are a mix taken from two sites https://www.ecstaticdancela.com/homepage and https://ecstaticdance.org/media/
+Quotes from  Gabrielle Roth https://en.wikipedia.org/wiki/Gabrielle_Roth
+Instructions on how to implement form validation on the Connect page was taken from a Code Institute Tutorial.
+
+W3schools for tutorials on all stages and used/modified a mix of code from a template in dreamweaver and an old website I half built.I got a bit confused as was drawing from too many sources and caused alot more work more than I needed to do.
+https://www.w3schools.com/howto/howto_make_a_website.asp
+
+The social media icons in the footer banner were taken from Font Awesome.
+Tutorials on https://css-tricks.com/snippets/css/a-guide-to-flexbox/ for flexbox build.
+FreeCode Academy for flexbox, svg and responsive media queries https://www.freecodecamp.org/news/tag/svg/
+
+
+
+Media
+The photos and videos used on all pages are from https://www.pexels.com/collections/dance-xlb5itr/
 
 ## Technologies 
 -------------------
