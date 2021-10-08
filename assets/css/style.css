@@ -183,9 +183,10 @@ form {
 /* Form on Connect page */
 
 #submit {
-	background-color: #696464;
+	background-color: #8d8686;
 	color: #FFFFFF;
-	border: 3px solid #524f4f;
+	border: 3px solid #b9b2b2;
+	
 
 }
 
@@ -243,7 +244,7 @@ footer .footer_column p {
 }
 
 .button {
-	width: 200px;
+	width: 150px;
 	margin-top: 40px;
 	margin-right: auto;
 	margin-bottom: auto;
@@ -276,6 +277,7 @@ footer .footer_column p {
 	background-color: #d6d2d2;
 	color: #2e2b2b;
 	letter-spacing: 2px;
+	font-size: smaller;
 	
 }
 /* was footer_banner now subscribe_banner */
