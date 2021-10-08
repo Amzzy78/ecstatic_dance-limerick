@@ -202,6 +202,138 @@ As an interested observer and/or potential client, I want to follow the event on
 As a returning visitor to the website, who has already decided to attend the event, I want to see a function to buy tickets for the event.
 
 
+----------------------------------------------------
+New ReadMe.
+
+# Ecstatic Dance Limerick
+Welcome! deployed link here...
+
+INTRO to App....
+
+![Responsive Mockup](https://user-images.githubusercontent.com/.jpg) ..refill with correct image
+
+
+# User Experience (UX)
+
+## First Time Visitor Goals: rewrite to fit this app
+
+(a.) I want to easily access quotes and be inspired.
+
+(b.) I want the site to be easy to navigate and for the content to match the sites subject title.
+
+(c.) I want to seek out professors in the field of psychedelic research that I may not have heard of before so I can do my own research into their studies.
+
+(d.) I want the site to be visually over the top with colours and images to match the subject matter.
+
+(e.) I want to be able to view the site in any reasonable browser so that I can use what I’m accustomed to. 
+
+## Returning Visitor Goals: 
+
+(a.) I want to see new quotes when I return to the site, so I can come back more often and explore new authors and professionals in the field, so that I can educate myself and research further on this exciting and meaningful topic. 
+
+(b.) I want to see new images when I return to the site, so that I may be stimulated visually by my response to them.
+
+-------------------------------
+# Features ... example follows
+
+1. Interactive elements.
+
+      (a.) A container that changes the quote and author on the click of a button.
+
+      (b.) A container that changes images on the click of a previous and next button.
+
+2. Responsive on all device sizes. 
+
+3. Links to external websites for further reference. All open in a new tab.
+
+   (a.) Heading/introduction text under the logo is linked to Michael Pollan's book where the excerpt was borrowed.
+
+## Existing Features
+  -----------------
+   ### Header Text Logo 
+   ![logo](https://user-images.githubusercontent.com/62209464/130655179-3788cfeb-d2c7-428f-a048-961b2a46201e.jpg)
+   The text logo PSYCHEDLIC QUOTES in the header is a clickable link that refreshes the page which resets the quote generator to its default position. When hovering over the logo an underline appears to suggest it is a link.
+
+   ### Heading
+   ![logo/heading](https://user-images.githubusercontent.com/62209464/130656485-8ebe98a1-e061-4855-b085-b6d502b65a4c.jpg)
+
+   ###
+
+   ###
+
+## Design
+   --------------
+   ### Colour palette:
+   Based on the 60's colour scheme.
+   ![](https://user-images.githubusercontent.com/62209464/131177633-6d85bbe0-0bd3-4a69-824f-8b79e3db01fa.jpg)
+
+   Quotes colour array.
+   ![](https://user-images.githubusercontent.com/62209464/131177655-4f1b27a3-042c-4da9-a9c7-51fb10ab3197.jpg)
+   
+   ### Typography:
+   Ohno Blazeface from Adobe fonts, also based on the psychedelic 60s typography.
+   ![](https://user-images.githubusercontent.com/62209464/131178240-ce72cd64-5234-4032-99a6-bf3e2174f7da.jpg)
+   ### Imagery:
+   Psychedelic inspired images from Adobe and resized in Photoshop.
+
+   ## Wireframes
+   1. Desktop
+
+   ![](https://user-images.githubusercontent.com/62209464/130970949-a012a0f3-b27e-4f3c-96ca-641b93d2ebc2.png)
+
+   2. Mobile
+
+   ![](https://user-images.githubusercontent.com/62209464/130971341-732ae8e2-27ae-46d9-bb9b-c14e60031d3b.jpg)
+
+
+## Testing
+--------------------------------------
+### Unicorn Revealer:
+This dev tool helped in revealing where there was overflow from the image gallery container which was affecting the responsive layout on the iPhone 5/SE. 
+### Lighthouse metrics:
+Focused on improving the overall performance score by eliminating render-blocking resources which in particular had to do with the external typekit and issues with preloading. Created a second css stylesheet with the Adobe typekit and linked in html. Followed suggestions by Lighthouse to improve score: Added <link rel="preload"> and to css and js file in the header and <script...defer></script> in the body. This enabled the script to be downloaded in parallel to parsing the page, and executed after the page finished parsing. 
+
+### Mobile score:
+![](https://user-images.githubusercontent.com/62209464/131176376-4cb7a938-8fa0-40ee-aecd-a586715c931d.png)
+### Desktop score:
+![](https://user-images.githubusercontent.com/62209464/131175129-b2bf58b1-7d54-4096-aca1-60d5b5f70c3d.png)
+
+## Validator Testing
+--------------------------------------
+HTML: 
+![](https://user-images.githubusercontent.com/62209464/130991058-621a6843-758d-41f7-9c1c-e5f3c6caca29.png)
+CSS:
+![](https://user-images.githubusercontent.com/62209464/130996285-b146ec74-619c-4909-8f30-06624470d19f.png)
+JS:
+![](https://user-images.githubusercontent.com/62209464/131172727-2f1d4899-c196-4e20-bab9-67c8c57e6206.png)
+Color Contrast Accessibility Validator:
+![](https://user-images.githubusercontent.com/62209464/130998702-7ede7c1c-319f-4775-856f-74de73694a48.png)
+Web Content Accessibility Guidelines (WCAG) 2.1 standards:
+![](https://user-images.githubusercontent.com/62209464/130998964-0107cce5-fe48-4e6a-b78f-3c3571f528d1.png)
+
+### Fixed Bugs
+--------------------------------------
+
+### Unfixed Bugs
+------------------------------
+
+## Features Left to Implement
+-------------------------------- 
+
+## Deployment
+-------------------------------------
+The site was deployed to GitHub pages. 
+The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab from the source section drop-down menu, select the Main Branch. Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+The live link can be found here -  https://amzzy78.github.io/psychedelic-quotes-generator/
+
+### Credits
+-------------------------------------
+
+## Technologies 
+-------------------
+
+
 
 
 
