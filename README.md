@@ -4,19 +4,17 @@ Welcome! deployed link here: https://amzzy78.github.io/ecstatic_dance-limerick/
 
 Welcome to Ecstatic Dance Limerick!
 
-This website is to be a digital poster for a weekly event based in Limerick, Ireland. The site will feature the event details, guidelines and contact pages. The website features two videos that have no sound but are to portray the essence of an Ecstatic Dance event, where silence is also part of the dance. Images throughout the site to show the diversity and inclusive nature of the event. 
-A guideline's page to explain what is required at these events, such as a code of conduct to adhere to, and a connect page with subscribe functions.
+This website is to be a digital poster for a weekly event based in Limerick, Ireland. The site will feature the event details, guidelines and contact pages in the nav bar and in the footer there will be links to the connect,guidelines,safety and privacy policy. The website features two videos that have no sound but are to portray the essence of an Ecstatic Dance event, where silence is also part of the dance. Images throughout the site to show the diversity and inclusive nature of the event. 
+The guideline's page will explain what is required at these events, such as a code of conduct to adhere to, and a connect page with a subscribe form.
 A clear nav bar with 3 pages and footer with important links(safety, guidelines, contact us, privacy policy). 
 
 It is a fully responsive site. The primary goal of the website is to promote an Ecstatic Dance event in Limerick city at the Killmurry Arts and Community centre, and be an online presence like a virtual poster with regular updating of information about the weekly event. The site will be targeted toward building a community of locals looking to express themselves through a free-form dance movement. It will be a space for people wishing to connect with a conscious dancing community that is outside the regular dance/club scene in Ireland.
 
-![Responsive Mockup](https://user-images.githubusercontent.com/62209464/136616131-6ff6745c-4b17-4bca-9a52-bf4f9e4c7efc.jpg) 
+![Responsive Mockup](https://user-images.githubusercontent.com/62209464/137389849-2681302e-6a87-482c-9a57-b0acd2b0fa47.jpg) 
 
-# ![alt text] (../assets/images/logo.png)
 
-# ![Image of Event page over three devices] (../assets/images/responsive-image1.jpg)
-# ![Image of Connect page over three devices] (../assets/images/responsive-image2.jpg)
-# ![Image of Guidelines page over three devices] (../assets/images/responsive-image3.jpg)
+
+
 
 
 
