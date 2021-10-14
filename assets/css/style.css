@@ -74,7 +74,7 @@ ul li a {
 }
 
 ul li:hover a {
-	color: slategrey;
+	color: black;
 }
 
 
@@ -157,7 +157,7 @@ iframe {
 
 .light {
 	font-weight: bold;
-	color: #2c2929;
+	color: goldenrod;
 }
 
 .tagline {
@@ -386,7 +386,7 @@ footer {
 		float: none;
 		overflow: auto;
 		display: inline-block;
-		background: #8b8787;
+		background: #312f2f;
 	}
 
 	header nav ul {
