@@ -28,7 +28,6 @@ body {
 
 /* Navigation */
 
-
 header {
 	width: 100%;
 	height: 5%;
@@ -44,7 +43,6 @@ header {
 	margin-left: 25px;
 	letter-spacing: 4px;
 }
-
 
 nav {
 	float: right;
@@ -78,7 +76,6 @@ ul li:hover a {
 	color: black;
 }
 
-
 /* Style main content/images */
 
 .responsive {
@@ -89,7 +86,6 @@ ul li:hover a {
 .responsive-auto {
 	width: 100%;
 	height: 800px;
-
 }
 
 .flex-item-right {
@@ -109,7 +105,6 @@ ul li:hover a {
 	color: #646262;
 	letter-spacing: 2px;
 	line-height: 25px;
-
 
 }
 
@@ -168,8 +163,6 @@ iframe {
 	font-weight: bold;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-
-
 }
 
 /* Form */
@@ -187,7 +180,6 @@ form {
 	background-color: #8d8686;
 	color: #FFFFFF;
 	border: 3px solid #b9b2b2;
-	
 
 }
 
@@ -270,7 +262,8 @@ footer .footer_column p {
 	color: #a19696;
 	cursor: pointer;
 }
-/* was copyright now footer*/
+
+/* Footer*/
 .footer {
 	text-align: center;
 	padding-top: 2px;
@@ -279,17 +272,19 @@ footer .footer_column p {
 	color: white;
 	letter-spacing: 2px;
 	font-size: smaller;
-	
-}
-.footer a{
-	color: black;
-	
+
 }
 
-.footer a:hover{
+.footer a {
+	color: black;
+
+}
+
+.footer a:hover {
 	color: goldenrod
 }
-/* was footer_banner now subscribe_banner */
+
+/* Subscribe_banner */
 .subscribe_banner {
 	background-color: #a39c9c;
 	padding-top: 20px;
@@ -297,7 +292,8 @@ footer .footer_column p {
 	margin-bottom: 0px;
 
 }
-#updates{
+
+#updates {
 	color: black;
 }
 
@@ -375,7 +371,6 @@ footer {
 	}
 
 }
-
 
 /* Small Tablets */
 @media (min-width: 321px)and (max-width: 767px) {
