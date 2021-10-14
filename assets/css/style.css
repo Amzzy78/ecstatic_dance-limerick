@@ -275,10 +275,17 @@ footer .footer_column p {
 	padding-top: 2px;
 	padding-bottom: 2px;
 	background-color: #797070;
-	color: #2e2b2b;
+	color: white;
 	letter-spacing: 2px;
 	font-size: smaller;
 	
+}
+.footer a{
+	color: wheat;
+}
+
+.footer a:hover{
+	color: goldenrod
 }
 /* was footer_banner now subscribe_banner */
 .subscribe_banner {
@@ -287,6 +294,9 @@ footer .footer_column p {
 	padding-bottom: 20PX;
 	margin-bottom: 0px;
 
+}
+#updates{
+	color: black;
 }
 
 footer {
