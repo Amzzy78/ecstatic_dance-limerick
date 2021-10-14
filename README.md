@@ -10,7 +10,7 @@ A clear nav bar with 3 pages and footer with important links(safety, guidelines,
 
 It is a fully responsive site. The primary goal of the website is to promote an Ecstatic Dance event in Limerick city at the Killmurry Arts and Community centre, and be an online presence like a virtual poster with regular updating of information about the weekly event. The site will be targeted toward building a community of locals looking to express themselves through a free-form dance movement. It will be a space for people wishing to connect with a conscious dancing community that is outside the regular dance/club scene in Ireland.
 
-![Responsive Mockup](https://github.com/Amzzy78/ecstatic_dance-limerick/issues/1#issuecomment-943701139) 
+![Responsive Mockup](https://user-images.githubusercontent.com/62209464/137389849-2681302e-6a87-482c-9a57-b0acd2b0fa47.jpg) 
 # ![alt text] (../assets/images/logo.png)
 
 # ![Image of Event page over three devices] (../assets/images/responsive-image1.jpg)
