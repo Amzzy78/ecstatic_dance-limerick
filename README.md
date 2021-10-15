@@ -45,12 +45,39 @@ It is a fully responsive site. The site will be targeted toward building a commu
  ![nav](https://user-images.githubusercontent.com/62209464/137390532-26edb4c3-38c0-46e9-b7fe-f5efc5b4d858.jpg)
  The navigation bar links: Event, Guidelines and Connect page.
  Ecstatic Dance Limerick text Logo returns the user to the top of each page currently on.
- 
+ ### Navagation Bar Mobile
+ ![nav](https://user-images.githubusercontent.com/62209464/137390543-724845c8-29fa-4887-83b0-8afdee84ddf1.jpg)
 
-# ![Image of navbar] (../assets/images/navbar-mobile.jpg)
+### Hero Section
+![hero](https://user-images.githubusercontent.com/62209464/137390844-57d1429b-e09d-4a53-aaf2-313e6b21c59c.jpg)
+Contains the title of the site, tagline and image.
+
+### About Section Mobile
+![about](https://user-images.githubusercontent.com/62209464/137393215-3cae3309-9d49-426e-9797-c98b5dad1e8a.jpg)
+![about](https://user-images.githubusercontent.com/62209464/137393983-64475c91-90e0-4a65-aea4-37a9691d335e.jpg)
+The about section contains text information about the event, images and a video clip with no audio.
+
+### Subscribe Section
+![subscribe](https://user-images.githubusercontent.com/62209464/137394183-6c050c6e-8a58-4f0a-b98a-2ca4b126dd89.jpg)
+
+### Footer Columns Section
+![footer_columns](https://user-images.githubusercontent.com/62209464/137394446-4c83f8cf-6e43-4d72-823f-c955f991edef.jpg)
+The footer column section contains two cards: an image poster of the event with details of the price, date, and time. This will be updated weekly.
+Google Maps location and brief instructions on how to get to the event.
+
+### Footer Section
+![nav](https://user-images.githubusercontent.com/62209464/137394593-bdc6e54a-9c88-4029-9a30-348dc1495e94.jpg)
+Links to pages: safety, guidelines, contact us and privacy policy.
+Logo image links back to the top of the page.
+
+### Subscribe Form
+![nav](https://user-images.githubusercontent.com/62209464/137395548-16273325-50e7-4857-ab9e-dca2a8864fff.jpg)
+The Connect page contains a form for the user to subscribe to recevie updates on the event. The correct information must be filled into the name and email field to proceed to the button click.
+When the Subscribe button is clicked, it opens a subscribe page with a thank you.
+
+
 
    
-
 
 This website is:
 Easy to navigate.
@@ -73,37 +100,9 @@ As a returning visitor to the website, who has already decided to attend the eve
 
 
 
-## Existing Features
-  -----------------
-
-
-
-Hero section
-# ![Image of hero header] (../assets/images/hero-section.jpg)
-Contains logo image/ text and tagline.
-
-About section
-# ![Image of about section] (../assets/images/about-section-1.jpg)
-# ![Image of about section] (../assets/images/about-section-2.jpg)
-
-The about section contains text information about the event, images and a video clip with no audio.
-
-Footer column section
-# ![Image of footer column section] (../assets/images/footer-column-section.jpg)
-Event details,price,time and day on an image poster. This can be updated regularly with new images. Location with google maps and brief description.
-
-Footer banner section
-Subscribe button section.
-# ![Image of footer banner section] (../assets/images/footer-banner-section.jpg)
-
-
-Footer section with links,logo and copyright.
-# ![Image of footer section] (../assets/images/footer-copyright-section.jpg)
-
 
 Images and video throughout the site suitable to the event.
 
-Subscribe button on connect page is linked to a subscribe page when details filled out and sent.
   
 
 ## Design
