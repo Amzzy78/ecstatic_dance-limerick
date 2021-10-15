@@ -50,11 +50,13 @@ It is a fully responsive site. The site will be targeted toward building a commu
 
 ### Hero Section
  ![hero](https://user-images.githubusercontent.com/62209464/137390844-57d1429b-e09d-4a53-aaf2-313e6b21c59c.jpg)
- Contains the title of the site, tagline and image.
+ Contains the title of the site, tagline, image logo and image.
 
 ### About Section Mobile
- ![about](https://user-images.githubusercontent.com/62209464/137393215-3cae3309-9d49-426e-9797-c98b5dad1e8a.jpg)
- ![about](https://user-images.githubusercontent.com/62209464/137393983-64475c91-90e0-4a65-aea4-37a9691d335e.jpg)
+ ![about1](https://user-images.githubusercontent.com/62209464/137393215-3cae3309-9d49-426e-9797-c98b5dad1e8a.jpg)
+ <br>
+ ![about2](https://user-images.githubusercontent.com/62209464/137393983-64475c91-90e0-4a65-aea4-37a9691d335e.jpg)
+ <br>
  The about section contains text information about the event, images and a video clip with no audio.
 
 ### Subscribe Section
@@ -67,6 +69,7 @@ It is a fully responsive site. The site will be targeted toward building a commu
 
 ### Footer Section
  ![nav](https://user-images.githubusercontent.com/62209464/137394593-bdc6e54a-9c88-4029-9a30-348dc1495e94.jpg)
+ <br>
  Links to pages: safety, guidelines, contact us and privacy policy.
  Logo image links back to the top of the page.
 
@@ -108,6 +111,7 @@ It is a fully responsive site. The site will be targeted toward building a commu
 --------------------------------------
 HTML: 
 ![html](https://user-images.githubusercontent.com/62209464/137396054-228cab61-2b51-49b9-aa72-218c33740d08.jpg)
+<br>
 CSS:
 ![css](https://user-images.githubusercontent.com/62209464/137396258-d24479bf-3eea-4de7-a0e8-a8fe83b5dd57.jpg)
 
